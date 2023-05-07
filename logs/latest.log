@@ -1,0 +1,304 @@
+[16:43:57] [ServerMain/INFO]: Building unoptimized datafixer
+[16:43:58] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[16:43:59] [ServerMain/INFO]: Loaded 7 recipes
+[16:43:59] [ServerMain/INFO]: Loaded 1179 advancements
+[16:43:59] [Server thread/INFO]: Starting minecraft server version 1.19.3
+[16:43:59] [Server thread/INFO]: Loading properties
+[16:43:59] [Server thread/INFO]: Default game type: SURVIVAL
+[16:43:59] [Server thread/INFO]: Generating keypair
+[16:43:59] [Server thread/INFO]: Starting Minecraft server on *:25565
+[16:43:59] [Server thread/INFO]: Using epoll channel type
+[16:44:00] [Server thread/INFO]: Preparing level "world"
+[16:44:00] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[16:44:01] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[16:44:01] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[16:44:01] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[16:44:02] [Worker-Main-13/INFO]: Preparing spawn area: 0%
+[16:44:02] [Worker-Main-11/INFO]: Preparing spawn area: 3%
+[16:44:03] [Server thread/INFO]: Time elapsed: 2440 ms
+[16:44:03] [Server thread/INFO]: Done (2.986s)! For help, type "help"
+[16:44:35] [User Authenticator #1/INFO]: UUID of player rexhent is ceb6898d-30b6-43dd-8278-303322359a25
+[16:44:35] [Server thread/INFO]: rexhent[/127.0.0.1:36966] logged in with entity id 314 at (-126.35052292089384, 70.0, 75.72476814318337)
+[16:44:35] [Server thread/INFO]: rexhent joined the game
+[16:44:57] [Server thread/INFO]: <rexhent> -124 67 101
+[16:45:07] [Server thread/INFO]: Summoned new Sheep
+[16:45:08] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[16:45:08] [Server thread/INFO]: -124 67 101<--[HERE]
+[16:45:15] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[16:45:15] [Server thread/INFO]: [A[B<--[HERE]
+[16:45:16] [Server thread/INFO]: Summoned new Sheep
+[16:45:34] [Server thread/INFO]: Summoned new Cow
+[16:46:00] [Server thread/INFO]: <rexhent> -55 67 68
+[16:46:15] [Server thread/INFO]: Summoned new Cow
+[16:46:19] [Server thread/INFO]: Summoned new Cow
+[16:46:19] [Server thread/INFO]: Summoned new Cow
+[16:46:20] [Server thread/INFO]: Summoned new Cow
+[16:46:20] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[16:46:20] [Server thread/INFO]: V<--[HERE]
+[16:46:21] [Server thread/INFO]: Summoned new Cow
+[16:46:21] [Server thread/INFO]: Summoned new Cow
+[16:46:22] [Server thread/INFO]: Summoned new Cow
+[16:46:22] [Server thread/INFO]: Summoned new Cow
+[16:46:23] [Server thread/INFO]: Summoned new Cow
+[16:46:23] [Server thread/INFO]: Summoned new Cow
+[16:46:23] [Server thread/INFO]: Summoned new Cow
+[16:46:24] [Server thread/INFO]: Summoned new Cow
+[16:46:49] [Server thread/INFO]: <rexhent> -87 68 67
+[16:46:59] [Server thread/INFO]: Summoned new Chicken
+[16:47:00] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[16:47:00] [Server thread/INFO]: -87 68 67<--[HERE]
+[16:47:00] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[16:47:00] [Server thread/INFO]: -87 68 67<--[HERE]
+[16:47:08] [Server thread/INFO]: Summoned new Chicken
+[16:47:08] [Server thread/INFO]: Summoned new Chicken
+[16:47:08] [Server thread/INFO]: Summoned new Chicken
+[16:47:09] [Server thread/INFO]: Summoned new Chicken
+[16:47:09] [Server thread/INFO]: Summoned new Chicken
+[16:47:10] [Server thread/INFO]: Summoned new Chicken
+[16:47:10] [Server thread/INFO]: Summoned new Chicken
+[16:47:10] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[16:47:10] [Server thread/INFO]: V<--[HERE]
+[16:47:11] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[16:47:11] [Server thread/INFO]: V<--[HERE]
+[16:47:11] [Server thread/INFO]: Summoned new Chicken
+[16:47:12] [Server thread/INFO]: Summoned new Chicken
+[16:47:13] [Server thread/INFO]: Summoned new Chicken
+[16:47:14] [Server thread/INFO]: Summoned new Chicken
+[16:47:14] [Server thread/INFO]: Summoned new Chicken
+[16:47:15] [Server thread/INFO]: Summoned new Chicken
+[16:47:15] [Server thread/INFO]: Summoned new Chicken
+[16:47:16] [Server thread/INFO]: Summoned new Chicken
+[16:47:16] [Server thread/INFO]: Summoned new Chicken
+[16:47:17] [Server thread/INFO]: Summoned new Chicken
+[16:47:17] [Server thread/INFO]: Summoned new Chicken
+[16:47:18] [Server thread/INFO]: Summoned new Chicken
+[16:47:18] [Server thread/INFO]: Summoned new Chicken
+[16:47:18] [Server thread/INFO]: Summoned new Chicken
+[16:47:19] [Server thread/INFO]: Summoned new Chicken
+[16:47:19] [Server thread/INFO]: Summoned new Chicken
+[16:47:20] [Server thread/INFO]: Summoned new Chicken
+[16:47:20] [Server thread/INFO]: Summoned new Chicken
+[16:47:21] [Server thread/INFO]: Summoned new Chicken
+[16:47:21] [Server thread/INFO]: Summoned new Chicken
+[16:47:22] [Server thread/INFO]: Summoned new Chicken
+[16:47:22] [Server thread/INFO]: Summoned new Chicken
+[16:47:23] [Server thread/INFO]: Summoned new Chicken
+[16:47:30] [Server thread/INFO]: Summoned new Chicken
+[16:47:30] [Server thread/INFO]: Summoned new Chicken
+[16:47:30] [Server thread/INFO]: Summoned new Chicken
+[16:47:31] [Server thread/INFO]: Summoned new Chicken
+[16:47:31] [Server thread/INFO]: Summoned new Chicken
+[16:47:32] [Server thread/INFO]: Summoned new Chicken
+[16:47:32] [Server thread/INFO]: Summoned new Chicken
+[16:47:32] [Server thread/INFO]: Summoned new Chicken
+[16:47:33] [Server thread/INFO]: Summoned new Chicken
+[16:47:33] [Server thread/INFO]: Summoned new Chicken
+[16:47:34] [Server thread/INFO]: Summoned new Chicken
+[16:47:34] [Server thread/INFO]: Summoned new Chicken
+[16:47:35] [Server thread/INFO]: Summoned new Chicken
+[16:47:35] [Server thread/INFO]: Summoned new Chicken
+[16:47:36] [Server thread/INFO]: Summoned new Chicken
+[16:47:36] [Server thread/INFO]: Summoned new Chicken
+[16:47:36] [Server thread/INFO]: Summoned new Chicken
+[16:47:37] [Server thread/INFO]: Summoned new Chicken
+[16:47:37] [Server thread/INFO]: Summoned new Chicken
+[16:47:38] [Server thread/INFO]: Summoned new Chicken
+[16:47:38] [Server thread/INFO]: Summoned new Chicken
+[16:47:39] [Server thread/INFO]: Summoned new Chicken
+[16:47:39] [Server thread/INFO]: Summoned new Chicken
+[16:47:40] [Server thread/INFO]: Summoned new Chicken
+[16:47:40] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[16:47:40] [Server thread/INFO]: V<--[HERE]
+[16:47:41] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[16:47:41] [Server thread/INFO]: v<--[HERE]
+[16:47:41] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[16:47:41] [Server thread/INFO]: v<--[HERE]
+[16:47:43] [Server thread/INFO]: Summoned new Chicken
+[16:47:44] [Server thread/INFO]: Summoned new Chicken
+[16:47:44] [Server thread/INFO]: Summoned new Chicken
+[16:47:45] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[16:47:45] [Server thread/INFO]: <--[HERE]
+[16:47:46] [Server thread/INFO]: Summoned new Chicken
+[16:47:47] [Server thread/INFO]: Summoned new Chicken
+[16:47:47] [Server thread/INFO]: Summoned new Chicken
+[16:47:48] [Server thread/INFO]: Summoned new Chicken
+[16:47:48] [Server thread/INFO]: Summoned new Chicken
+[16:47:49] [Server thread/INFO]: Summoned new Chicken
+[16:47:49] [Server thread/INFO]: Summoned new Chicken
+[16:47:49] [Server thread/INFO]: Summoned new Chicken
+[16:47:50] [Server thread/INFO]: Summoned new Chicken
+[16:47:50] [Server thread/INFO]: Summoned new Chicken
+[16:47:52] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[16:47:52] [Server thread/INFO]: <--[HERE]
+[16:47:52] [Server thread/INFO]: Summoned new Chicken
+[16:47:52] [Server thread/INFO]: Summoned new Chicken
+[16:47:53] [Server thread/INFO]: Summoned new Chicken
+[16:47:53] [Server thread/INFO]: Summoned new Chicken
+[16:47:54] [Server thread/INFO]: Summoned new Chicken
+[16:47:54] [Server thread/INFO]: Summoned new Chicken
+[16:47:55] [Server thread/INFO]: Summoned new Chicken
+[16:47:55] [Server thread/INFO]: Summoned new Chicken
+[16:47:56] [Server thread/INFO]: Summoned new Chicken
+[16:48:04] [Server thread/INFO]: rexhent fell out of the world
+[16:48:04] [Server thread/INFO]: Killed rexhent
+[16:49:20] [Server thread/INFO]: <rexhent> =83 68 66
+[16:49:31] [Server thread/INFO]: <rexhent> -83 68 66
+[16:49:42] [Server thread/INFO]: Summoned new Chicken
+[16:49:46] [Server thread/INFO]: Summoned new Chicken
+[16:49:46] [Server thread/INFO]: Summoned new Chicken
+[16:49:47] [Server thread/INFO]: Summoned new Chicken
+[16:49:47] [Server thread/INFO]: Summoned new Chicken
+[16:49:48] [Server thread/INFO]: Summoned new Chicken
+[16:49:48] [Server thread/INFO]: Summoned new Chicken
+[16:49:48] [Server thread/INFO]: Summoned new Chicken
+[16:49:49] [Server thread/INFO]: Summoned new Chicken
+[16:49:49] [Server thread/INFO]: Summoned new Chicken
+[16:49:50] [Server thread/INFO]: Summoned new Chicken
+[16:49:50] [Server thread/INFO]: Summoned new Chicken
+[16:49:50] [Server thread/INFO]: Summoned new Chicken
+[16:49:51] [Server thread/INFO]: Summoned new Chicken
+[16:49:51] [Server thread/INFO]: Summoned new Chicken
+[16:49:51] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[16:49:51] [Server thread/INFO]: V<--[HERE]
+[16:49:52] [Server thread/INFO]: Summoned new Chicken
+[16:49:52] [Server thread/INFO]: Summoned new Chicken
+[16:49:53] [Server thread/INFO]: Summoned new Chicken
+[16:49:54] [Server thread/INFO]: Summoned new Chicken
+[16:49:54] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[16:49:54] [Server thread/INFO]: v<--[HERE]
+[16:49:55] [Server thread/INFO]: Summoned new Chicken
+[16:49:55] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[16:49:55] [Server thread/INFO]: V<--[HERE]
+[16:49:56] [Server thread/INFO]: Summoned new Chicken
+[16:49:56] [Server thread/INFO]: Summoned new Chicken
+[16:49:57] [Server thread/INFO]: Summoned new Chicken
+[16:49:57] [Server thread/INFO]: Summoned new Chicken
+[16:49:57] [Server thread/INFO]: Summoned new Chicken
+[16:49:58] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[16:49:58] [Server thread/INFO]: <--[HERE]
+[16:49:58] [Server thread/INFO]: Summoned new Chicken
+[16:49:59] [Server thread/INFO]: Summoned new Chicken
+[16:49:59] [Server thread/INFO]: Summoned new Chicken
+[16:50:00] [Server thread/INFO]: Summoned new Chicken
+[16:50:02] [Server thread/INFO]: Summoned new Chicken
+[16:50:03] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[16:50:03] [Server thread/INFO]: VV<--[HERE]
+[16:50:04] [Server thread/INFO]: Expected whitespace to end one argument, but found trailing data
+[16:50:04] [Server thread/INFO]: ... -83 68 66summon chicken -83 68 66<--[HERE]
+[16:50:05] [Server thread/INFO]: Summoned new Chicken
+[16:50:05] [Server thread/INFO]: Summoned new Chicken
+[16:50:06] [Server thread/INFO]: Summoned new Chicken
+[16:50:06] [Server thread/INFO]: Summoned new Chicken
+[16:50:07] [Server thread/INFO]: Summoned new Chicken
+[16:50:08] [Server thread/INFO]: Summoned new Chicken
+[16:50:10] [Server thread/INFO]: Expected whitespace to end one argument, but found trailing data
+[16:50:10] [Server thread/INFO]: ... -83 68 66; summon chicken -83 68 66<--[HERE]
+[16:50:13] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[16:50:13] [Server thread/INFO]: <--[HERE]
+[16:50:16] [Server thread/INFO]: Expected '{'
+[16:50:16] [Server thread/INFO]: ...-83 68 66 && summon chicken -83 68 66<--[HERE]
+[16:50:17] [Server thread/INFO]: Summoned new Chicken
+[16:50:18] [Server thread/INFO]: Summoned new Chicken
+[16:50:18] [Server thread/INFO]: Summoned new Chicken
+[16:50:19] [Server thread/INFO]: Summoned new Chicken
+[16:50:19] [Server thread/INFO]: Summoned new Chicken
+[16:50:21] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[16:50:21] [Server thread/INFO]: v<--[HERE]
+[16:50:21] [Server thread/INFO]: Summoned new Chicken
+[16:50:21] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[16:50:21] [Server thread/INFO]: V<--[HERE]
+[16:50:22] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[16:50:22] [Server thread/INFO]: v<--[HERE]
+[16:50:22] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[16:50:22] [Server thread/INFO]: v<--[HERE]
+[16:50:23] [Server thread/INFO]: Summoned new Chicken
+[16:50:23] [Server thread/INFO]: Summoned new Chicken
+[16:50:25] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[16:50:25] [Server thread/INFO]: <--[HERE]
+[16:50:25] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[16:50:25] [Server thread/INFO]: v<--[HERE]
+[16:50:25] [Server thread/INFO]: Summoned new Chicken
+[16:50:26] [Server thread/INFO]: Summoned new Chicken
+[16:50:27] [Server thread/INFO]: Summoned new Chicken
+[16:50:28] [Server thread/INFO]: Summoned new Chicken
+[16:50:28] [Server thread/INFO]: Summoned new Chicken
+[16:50:29] [Server thread/INFO]: Summoned new Chicken
+[16:50:29] [Server thread/INFO]: Summoned new Chicken
+[16:50:31] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[16:50:31] [Server thread/INFO]: <--[HERE]
+[16:50:31] [Server thread/INFO]: Summoned new Chicken
+[16:50:31] [Server thread/INFO]: Summoned new Chicken
+[16:50:32] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[16:50:32] [Server thread/INFO]: <--[HERE]
+[16:50:32] [Server thread/INFO]: Summoned new Chicken
+[16:50:33] [Server thread/INFO]: Summoned new Chicken
+[16:50:33] [Server thread/INFO]: Summoned new Chicken
+[16:50:34] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[16:50:34] [Server thread/INFO]: <--[HERE]
+[16:50:34] [Server thread/INFO]: Summoned new Chicken
+[16:50:35] [Server thread/INFO]: Summoned new Chicken
+[16:50:36] [Server thread/INFO]: Summoned new Chicken
+[16:50:36] [Server thread/INFO]: Summoned new Chicken
+[16:50:37] [Server thread/INFO]: Summoned new Chicken
+[16:50:37] [Server thread/INFO]: Summoned new Chicken
+[16:50:38] [Server thread/INFO]: Summoned new Chicken
+[16:50:39] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[16:50:39] [Server thread/INFO]: <--[HERE]
+[16:50:39] [Server thread/INFO]: Summoned new Chicken
+[16:50:40] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[16:50:40] [Server thread/INFO]: v<--[HERE]
+[16:50:41] [Server thread/INFO]: Summoned new Chicken
+[16:50:41] [Server thread/INFO]: Summoned new Chicken
+[16:50:42] [Server thread/INFO]: Summoned new Chicken
+[16:50:43] [Server thread/INFO]: Summoned new Chicken
+[16:50:43] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[16:50:43] [Server thread/INFO]: v<--[HERE]
+[16:50:44] [Server thread/INFO]: Summoned new Chicken
+[16:50:44] [Server thread/INFO]: Summoned new Chicken
+[16:50:45] [Server thread/INFO]: Summoned new Chicken
+[16:50:46] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[16:50:46] [Server thread/INFO]: <--[HERE]
+[16:50:46] [Server thread/INFO]: Summoned new Chicken
+[16:50:47] [Server thread/INFO]: Summoned new Chicken
+[16:50:48] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[16:50:48] [Server thread/INFO]: <--[HERE]
+[16:50:48] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[16:50:48] [Server thread/INFO]: v<--[HERE]
+[16:50:49] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[16:50:49] [Server thread/INFO]: <--[HERE]
+[16:50:50] [Server thread/INFO]: Summoned new Chicken
+[16:50:51] [Server thread/INFO]: Summoned new Chicken
+[16:50:51] [Server thread/INFO]: Summoned new Chicken
+[16:50:52] [Server thread/INFO]: Summoned new Chicken
+[16:50:53] [Server thread/INFO]: Summoned new Chicken
+[16:50:53] [Server thread/INFO]: Summoned new Chicken
+[16:50:54] [Server thread/INFO]: Summoned new Chicken
+[16:50:55] [Server thread/INFO]: Summoned new Chicken
+[16:50:55] [Server thread/INFO]: Summoned new Chicken
+[16:50:56] [Server thread/INFO]: Summoned new Chicken
+[16:50:57] [Server thread/INFO]: Summoned new Chicken
+[16:50:57] [Server thread/INFO]: Summoned new Chicken
+[16:50:58] [Server thread/INFO]: Summoned new Chicken
+[16:50:58] [Server thread/INFO]: Summoned new Chicken
+[16:50:59] [Server thread/INFO]: Summoned new Chicken
+[16:51:00] [Server thread/INFO]: Summoned new Chicken
+[16:51:09] [Server thread/INFO]: rexhent fell out of the world
+[16:51:09] [Server thread/INFO]: Killed rexhent
+[16:54:22] [Server thread/INFO]: rexhent lost connection: Disconnected
+[16:54:22] [Server thread/INFO]: rexhent left the game
+[16:54:24] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[16:54:24] [Server thread/INFO]: STOP<--[HERE]
+[20:17:53] [Server console handler/ERROR]: Exception handling console input
+java.io.IOException: Input/output error
+	at java.io.FileInputStream.readBytes(Native Method) ~[?:?]
+	at java.io.FileInputStream.read(FileInputStream.java:276) ~[?:?]
+	at java.io.BufferedInputStream.read1(BufferedInputStream.java:282) ~[?:?]
+	at java.io.BufferedInputStream.read(BufferedInputStream.java:343) ~[?:?]
+	at sun.nio.cs.StreamDecoder.readBytes(StreamDecoder.java:270) ~[?:?]
+	at sun.nio.cs.StreamDecoder.implRead(StreamDecoder.java:313) ~[?:?]
+	at sun.nio.cs.StreamDecoder.read(StreamDecoder.java:188) ~[?:?]
+	at java.io.InputStreamReader.read(InputStreamReader.java:177) ~[?:?]
+	at java.io.BufferedReader.fill(BufferedReader.java:162) ~[?:?]
+	at java.io.BufferedReader.readLine(BufferedReader.java:329) ~[?:?]
+	at java.io.BufferedReader.readLine(BufferedReader.java:396) ~[?:?]
+	at agn$1.run(SourceFile:89) ~[server-1.19.3.jar:?]
